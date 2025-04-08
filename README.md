@@ -1,4 +1,4 @@
-# 🎬 Netflix Dataset Analysis with SQL Server
+# 🎬 Netflix Data Analysis (With SQL Server)
 
 This project presents a comprehensive cleaning and analysis of the **Netflix Movies and TV Shows dataset** using **SQL Server**. The dataset includes information such as titles, genres, directors, countries, cast members, durations, ratings, and more.
 
